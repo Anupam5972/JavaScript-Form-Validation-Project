@@ -12,6 +12,12 @@
   box-sizing: border-box;
 }
 
+body {
+  background-image: url('BgImg.webp');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
 
 body {
   font-family: 'Open Sans', sans-serif;
